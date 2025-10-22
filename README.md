@@ -4,14 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%27m+Anatoliy+%F0%9F%91%8B;Frontend+Developer+in+progress;Passionate+about+React+%26+Next.js" alt="Typing SVG" />
 </p>
 
-🎓 Computer Science Student | 💻 Aspiring Fullstack Developer
+ 💻 Junior Fullstack Developer
 
 ## 🚀 About Me
 
 Hi, I'm Anatoliy 👋  
-- 📚 I'm currently learning Frontend Development and building real projects to gain commercial experience.  
-- 💻 My current focus is on mastering React, Next.js, and modern UI/UX patterns.  
-- 🤝 I'm open to collaboration and team projects.  
+- 📚 I've currently completed a 10-month FullStack Development course. My team and I implemented several projects during the course. I'm currently working on adding several more of my pet projects to GitHub.
+ 
+- 💻 I'm currently focused on gaining a deeper understanding of React, Next.js, and modern UI/UX patterns through examples and practices.  
+- 🤝 I'm open to collaboration and team projects. I need more practice to grow and develop.
 - 🚀 My goal is to become a confident Frontend Developer and grow into a senior Fullstack role.
 
 ## 🧠 Currently Learning
