@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anatoliy Noscov
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Anatoliy+👋;Frontend+Developer+in+progress;Passionate+about+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%27m+Anatoliy+%F0%9F%91%8B;Frontend+Developer+in+progress;Passionate+about+React+%26+Next.js" alt="Typing SVG" />
 </p>
 
 🎓 Computer Science Student | 💻 Aspiring Fullstack Developer
@@ -42,6 +42,8 @@ Hi, I'm Anatoliy 👋
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 
