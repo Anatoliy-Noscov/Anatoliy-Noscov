@@ -66,10 +66,13 @@ Hi, I'm Anatoliy 👋
 </p>
 
 ## 📊 GitHub Views Tracker
-<!-- Добавьте эти бейджи для активации u8views -->
 <p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/125675843/views/day-week-month-2023.svg" alt="Profile views" />
-  <img src="https://u8views.com/api/v1/github/profiles/125675843/views/day-week-month-2023.svg" alt="Weekly views" /> 
+
+  <img src="https://u8views.com/api/v1/github/profiles/125675843/views/day-week-month-2023.svg" alt="u8views Tracker" />
+  
+
+  <img src="https://komarev.com/ghpvc/?username=Anatoliy-Noscov&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anatoliy-Noscov?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
  💻 Junior Fullstack Developer
@@ -122,7 +125,7 @@ Hi, I'm Anatoliy 👋
 </p>
 
 ## 🔥 Recent Activity
-<!-- Добавьте для отслеживания активности -->
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anatoliy-Noscov&theme=react-dark)
 
 ## 📫 Connect with me
