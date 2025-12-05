@@ -44,9 +44,9 @@ Hi, I'm Anatoliy 👋
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Noscov&show_icons=true&theme=radical)](https://github.com/Anatoliy-Noscov)
+![GitHub stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=Anatoliy-Noscov&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoliy-Noscov&layout=compact&theme=radical)](https://github.com/Anatoliy-Noscov)
+![Top Languages](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=Anatoliy-Noscov&layout=compact&theme=radical)
 
 
 
