@@ -1,8 +1,3 @@
-# 👋 Hello, I'm Anatoliy Noscov
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%27m+Anatoliy+%F0%9F%91%8B;Frontend+Developer+in+progress;Passionate+about+React+%26+Next.js" alt="Typing SVG" />
-</p>
 
  💻 Junior Fullstack Developer
 
