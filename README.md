@@ -41,10 +41,13 @@ Hi, I'm Anatoliy 👋
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
+
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Noscov&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoliy-Noscov&layout=compact&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatoliy-Noscov&show_icons=true&theme=radical)](https://github.com/Anatoliy-Noscov)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anatoliy-Noscov&layout=compact&theme=radical)](https://github.com/Anatoliy-Noscov)
+
 
 
 ## 📫 Connect with me
